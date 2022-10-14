@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 14 17:16:10 GMT 2022","Fri Oct 14 17:16:14 GMT 2022","4495","","IssueAnnotatedStepTest","","IssueAnnotatedStepTest","testAnnotatedStep","Check issue by steps",""
+"passed","Fri Oct 14 17:16:14 GMT 2022","Fri Oct 14 17:16:17 GMT 2022","2970","","IssueSelenideTest","","IssueSelenideTest","checkIssueTest","Check issue simple selenide",""
+"passed","Fri Oct 14 17:16:02 GMT 2022","Fri Oct 14 17:16:10 GMT 2022","7530","","IssueLambdaTest","","IssueLambdaTest","checkIssueTest","Check issue by lambda",""
